@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathma Rastogi</h1>
-<h3 align="center">A passionate developer enthusiastic in learning new technologies and building projects from United States.</h3>
+<h3 align="center">A passionate developer enthusiastic in learning new technologies and developing projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github-prathma&label=Profile%20views&color=0e75b6&style=flat" alt="github-prathma" /> </p>
 
