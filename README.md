@@ -15,7 +15,7 @@
 
 - 🗓 Have experience with **Full stack development, iOS Development, Data Analysis and Machine learning**
 
-- 📧 Reach out to me on **prathma999@gmail.com**
+- 📧 Reach out to me on **prathma.sj1806@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17kBwxtzzNahliA_ffVu7IiXPUMn-bhxu/view?usp=sharing](https://drive.google.com/file/d/17kBwxtzzNahliA_ffVu7IiXPUMn-bhxu/view?usp=sharing)
 
