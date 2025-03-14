@@ -17,7 +17,7 @@
 
 - 📧 Reach out to me on **prathma.sj1806@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17kBwxtzzNahliA_ffVu7IiXPUMn-bhxu/view?usp=sharing](https://drive.google.com/file/d/17kBwxtzzNahliA_ffVu7IiXPUMn-bhxu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JBhj4K4yUEQ_AwC3-Q-lUmSsPoP1PMv1/view?usp=drive_link]
 
 - ⚡ Interests **Reading, travelling, history, mythology, arts, music, writing**
 
