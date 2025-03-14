@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rastogiprathma" target="blank"><img src="https://img.shields.io/twitter/follow/rastogiprathma?logo=twitter&style=for-the-badge" alt="rastogiprathma" /></a> </p>
 
-- 📌 Currently learning **PowerBI, Jenkins, Groovy, Shell scripting, GPT/LLM.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/github-prathma](https://github.com/github-prathma)
 
 - 📝 I write articles on [https://medium.com/@prathma](https://medium.com/@prathma)
