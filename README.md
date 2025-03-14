@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JBhj4K4yUEQ_AwC3-Q-lUmSsPoP1PMv1/view?usp=drive_link)
 
-- ⚡ Interests **Reading, travelling, history, mythology, arts, music, writing**
+- ⚡ Interests **Reading, Travelling, History, Mythology, Arts/DIY, Music, Writing, Sports, Gaming**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
